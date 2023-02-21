@@ -1,4 +1,4 @@
-# styled-components-vue (vue-styled-components enhanced version)
+# styled-components-vue (styled-components-vue enhanced version)
 
 > Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅
 

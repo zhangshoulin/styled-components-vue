@@ -19,12 +19,12 @@ const moduleName = 'styled'
 const exports = 'named'
 
 const prodOutput = [
-  { exports, file: 'dist/vue-styled-components.min.js', format: 'umd', name: moduleName }
+  { exports, file: 'dist/styled-components-vue.min.js', format: 'umd', name: moduleName }
 ]
 
 const devOutput = [
-  { exports, file: 'dist/vue-styled-components.js', format: 'umd', name: moduleName },
-  { exports, file: 'dist/vue-styled-components.es.js', format: 'es', name: moduleName }
+  { exports, file: 'dist/styled-components-vue.js', format: 'umd', name: moduleName },
+  { exports, file: 'dist/styled-components-vue.es.js', format: 'es', name: moduleName }
 ]
 
 const output = prod ? prodOutput : devOutput
